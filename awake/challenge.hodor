@@ -1,0 +1,82 @@
+$HODOR: Hodor? HODOR? HODOR. hodor!? hodor. 1 = "HODOR Hodor dHODOR? hodor!? Hodor hHODOR hodor hodor?! hodor? rHodor "
+$HODOR: Hodor? HODOR? HODOR. hodor!? hodor. 2 = "HODOR Hodor! hodor HODOR? Hodor hodor!? Hodor hHODOR hodor hodor?! hodor? rHodor "
+
+HoDoRHoDoR hodor? Hodor?! HODOR Hodor!? hodor!? HODOR hodor. hodor? (Hodor? HODOR? HODOR. hodor!? hodor. ) {
+$HODOR: hodor ohodor!? HODOR? hodor. hodor? r = 0
+$HODOR: HODOR. oHodor? HODOR? hodor. hodor? r = 0
+HODOR{} ($HODOR: Hodor?  = 0; Hodor?  < Hodor? HODOR? HODOR. hodor!? hodor. .Hodor!? hodor? HODOR? hodor! hodor. h; Hodor? ++) {
+        HOdor!!! (HODOR. oHodor? HODOR? hodor. hodor? r == 9) {
+                HOdor!!! (Hodor? HODOR? HODOR. hodor!? hodor. .hodor hHODOR rhodor?!? hodor. (Hodor? ) == "Hodor ") {
+                        hodor ohodor!? HODOR? hodor. hodor? r++;
+                }
+                HODOR. oHodor? HODOR? hodor. hodor? r = 0;
+        }
+        HOdor!!! (HODOR. oHodor? HODOR? hodor. hodor? r == 8) {
+                HOdor!!! (Hodor? HODOR? HODOR. hodor!? hodor. .hodor hHODOR rhodor?!? hodor. (Hodor? ) == "r") {
+                        HODOR. oHodor? HODOR? hodor. hodor? r++;
+                } hoDOR!!! {
+                        HODOR. oHodor? HODOR? hodor. hodor? r = 0;
+                }
+        }
+        HOdor!!! (HODOR. oHodor? HODOR? hodor. hodor? r == 7) {
+                HOdor!!! (Hodor? HODOR? HODOR. hodor!? hodor. .hodor hHODOR rhodor?!? hodor. (Hodor? ) == "hodor? ") {
+                        HODOR. oHodor? HODOR? hodor. hodor? r++;
+                } hoDOR!!! {
+                        HODOR. oHodor? HODOR? hodor. hodor? r = 0;
+                }
+        }
+        HOdor!!! (HODOR. oHodor? HODOR? hodor. hodor? r == 6) {
+                HOdor!!! (Hodor? HODOR? HODOR. hodor!? hodor. .hodor hHODOR rhodor?!? hodor. (Hodor? ) == "hodor?! ") {
+                        HODOR. oHodor? HODOR? hodor. hodor? r++;
+                } hoDOR!!! {
+                        HODOR. oHodor? HODOR? hodor. hodor? r = 0;
+                }
+        }
+        HOdor!!! (HODOR. oHodor? HODOR? hodor. hodor? r == 5) {
+                HOdor!!! (Hodor? HODOR? HODOR. hodor!? hodor. .hodor hHODOR rhodor?!? hodor. (Hodor? ) == "hodor ") {
+                        HODOR. oHodor? HODOR? hodor. hodor? r++;
+                } hoDOR!!! {
+                        HODOR. oHodor? HODOR? hodor. hodor? r = 0;
+                }
+        }
+        HOdor!!! (HODOR. oHodor? HODOR? hodor. hodor? r == 4) {
+                HOdor!!! (Hodor? HODOR? HODOR. hodor!? hodor. .hodor hHODOR rhodor?!? hodor. (Hodor? ) == "HODOR ") {
+                        HODOR. oHodor? HODOR? hodor. hodor? r++;
+                } hoDOR!!! {
+                        HODOR. oHodor? HODOR? hodor. hodor? r = 0;
+                }
+        }
+        HOdor!!! (HODOR. oHodor? HODOR? hodor. hodor? r == 3) {
+                HOdor!!! (Hodor? HODOR? HODOR. hodor!? hodor. .hodor hHODOR rhodor?!? hodor. (Hodor? ) == "h") {
+                        HODOR. oHodor? HODOR? hodor. hodor? r++;
+                } hoDOR!!! {
+                        HODOR. oHodor? HODOR? hodor. hodor? r = 0;
+                }
+        }
+        HOdor!!! (HODOR. oHodor? HODOR? hodor. hodor? r == 2) {
+                HOdor!!! (Hodor? HODOR? HODOR. hodor!? hodor. .hodor hHODOR rhodor?!? hodor. (Hodor? ) == "Hodor ") {
+                        HODOR. oHodor? HODOR? hodor. hodor? r++;
+                } hoDOR!!! {
+                        HODOR. oHodor? HODOR? hodor. hodor? r = 0;
+                }
+        }
+        HOdor!!! (HODOR. oHodor? HODOR? hodor. hodor? r == 1) {
+                HOdor!!! (Hodor? HODOR? HODOR. hodor!? hodor. .hodor hHODOR rhodor?!? hodor. (Hodor? ) == "hodor!? ") {
+                        HODOR. oHodor? HODOR? hodor. hodor? r++;
+                } hoDOR!!! {
+                        HODOR. oHodor? HODOR? hodor. hodor? r = 0;
+                }
+        }
+        HOdor!!! (HODOR. oHodor? HODOR? hodor. hodor? r == 0) {
+                HOdor!!! (Hodor? HODOR? HODOR. hodor!? hodor. .hodor hHODOR rhodor?!? hodor. (Hodor? ) == "HODOR? ") {
+                        HODOR. oHodor? HODOR? hodor. hodor? r++;
+                } hoDOR!!! {
+                        HODOR. oHodor? HODOR? hodor. hodor? r = 0;
+                }
+        }
+}
+hodor.hod(hodor ohodor!? HODOR? hodor. hodor? r);
+}
+
+hodor? Hodor?! HODOR Hodor!? hodor!? HODOR hodor. hodor? (Hodor? HODOR? HODOR. hodor!? hodor. 1)
+hodor? Hodor?! HODOR Hodor!? hodor!? HODOR hodor. hodor? (Hodor? HODOR? HODOR. hodor!? hodor. 2)

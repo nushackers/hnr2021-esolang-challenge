@@ -1,0 +1,91 @@
+HAI 1.2
+        I HAS A counter ITZ 0 BTW type is NUMBR
+        I HAS A pointer ITZ 0 BTW type is NUMBR
+        IM IN YR LOOP
+                I HAS A input ITZ A YARN BTW DECLARE A VARIABLE FOR LATER USE
+                GIMMEH input BTW GET INPUT (STRING) INTO VARIABLE
+                BOTH SAEM input AN "-"
+                O RLY?
+                        YA RLY
+                                GTFO
+                        MEBBE BOTH SAEM input AN "s"
+                                BOTH SAEM pointer AN 9
+                                O RLY?
+                                        YA RLY
+                                                pointer R 0
+                                                counter R SUM OF counter AN 1
+                                        MEBBE BOTH SAEM pointer AN 2
+                                                pointer R SUM OF pointer AN 1
+                                        NO WAI
+                                                pointer R 0
+                                OIC
+                        MEBBE BOTH SAEM input AN "r"
+                                BOTH SAEM pointer AN 8
+                                O RLY?
+                                        YA RLY
+                                                pointer R SUM OF pointer AN 1
+                                        NO WAI
+                                                pointer R 0
+                                OIC
+                        MEBBE BOTH SAEM input AN "e"
+                                BOTH SAEM pointer AN 7
+                                O RLY?
+                                        YA RLY
+                                                pointer R SUM OF pointer AN 1
+                                        NO WAI
+                                                pointer R 0
+                                OIC
+                        MEBBE BOTH SAEM input AN "k"
+                                BOTH SAEM pointer AN 6
+                                O RLY?
+                                        YA RLY
+                                                pointer R SUM OF pointer AN 1
+                                        NO WAI
+                                                pointer R 0
+                                OIC
+                        MEBBE BOTH SAEM input AN "c"
+                                BOTH SAEM pointer AN 5
+                                O RLY?
+                                        YA RLY
+                                                pointer R SUM OF pointer AN 1
+                                        NO WAI
+                                                pointer R 0
+                                OIC
+                        MEBBE BOTH SAEM input AN "a"
+                                BOTH SAEM pointer AN 4
+                                O RLY?
+                                        YA RLY
+                                                pointer R SUM OF pointer AN 1
+                                        NO WAI
+                                                pointer R 0
+                                OIC
+                        MEBBE BOTH SAEM input AN "h"
+                                BOTH SAEM pointer AN 3
+                                O RLY?
+                                        YA RLY
+                                                pointer R SUM OF pointer AN 1
+                                        NO WAI
+                                                pointer R 0
+                                OIC
+                        MEBBE BOTH SAEM input AN "u"
+                                BOTH SAEM pointer AN 1
+                                O RLY?
+                                        YA RLY
+                                                pointer R SUM OF pointer AN 1
+                                        NO WAI
+                                                pointer R 0
+                                OIC
+                        MEBBE BOTH SAEM input AN "n"
+                                BOTH SAEM pointer AN 0
+                                O RLY?
+                                        YA RLY
+                                                pointer R SUM OF pointer AN 1
+                                        NO WAI
+                                                pointer R 0
+                                OIC
+                        NO WAI
+                                pointer R 0
+                OIC
+        IM OUTTA YR LOOP
+        VISIBLE counter
+KTHXBYE
