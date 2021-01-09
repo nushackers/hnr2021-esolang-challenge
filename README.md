@@ -2,10 +2,10 @@
 
 Winners for HACK & ROLL 2021 ESOLANG CHALLENGE
 
-First submission: David Choo @davidchoo12
+First submission: David Choo [@davidchoo12](https://github.com/davidchoo12)
 
 Most submissions: 
-- 1st place - Awake @zj-c2103
-- 2nd place - Theodore @theodoreleebrant
+- 1st place - Awake [@zj-c2103](https://github.com/zj-c2103)
+- 2nd place - Theodore [@theodoreleebrant](https://github.com/theodoreleebrant)
 
-Shortest submission: Shreyas @ShreyasKp
+Shortest submission: Shreyas [@ShreyasKp](https://github.com/ShreyasKp)
